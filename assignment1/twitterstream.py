@@ -1,7 +1,6 @@
 import oauth2 as oauth
 import urllib2 as urllib
 
-# See Assginment 6 instructions or README for how to get these credentials
 access_token_key = "16512469-rxmkCxNo9qwiZiZs43PhPUs8bHh2SsfEJAqHWsApy"
 access_token_secret = "m3ExgrZQPWSY3mOcvzF6yEqM8SdhITqVXtJcQ1QVDM"
 
